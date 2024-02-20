@@ -39,8 +39,8 @@ Route::middleware(['web'])->group(function () {
     Route::post('/setpassword' ,[ApiController::class , 'setPassword']);
     Route::post('/signup',[ApiController::class , 'signup']);
     Route::post('/login' , [ApiController::class , 'login']);
-    Route::get('/signup-page' , [HomeController::class , 'signup']);
-    Route::get('/login-page' , [HomeController::class , 'login']);
+    Route::get('signup-page' , [HomeController::class , 'signup']);
+    Route::get('login-page' , [HomeController::class , 'login']);
 });
 
 
