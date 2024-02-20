@@ -16,12 +16,12 @@
 
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;700;900&display=swap" rel="stylesheet">
 
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/bootstrap-icons.css" rel="stylesheet">
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/bootstrap-icons.css" rel="stylesheet">
 
-        <link rel="stylesheet" href="{{ asset('css/slick.css') }}"/>
+        <link rel="stylesheet" href="{{ asset('/css/slick.css') }}"/>
 
-        <link href="{{asset('css/tooplate-little-fashion.css') }}" rel="stylesheet">
+        <link href="{{asset('/css/tooplate-little-fashion.css') }}" rel="stylesheet">
 
 <!--
 
@@ -45,7 +45,7 @@ https://www.tooplate.com/view/2127-little-fashion
         <main>
             <nav class="navbar navbar-expand-lg">
                 <div class="container">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-togglcsser" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
 
