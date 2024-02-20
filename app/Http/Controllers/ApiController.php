@@ -44,7 +44,7 @@ class ApiController extends Controller
 
             $token = $user->createToken('AppName')->accessToken;
 
-            return redirect('/');
+            return redirect('/api');
         } else {
             return response()->json(['error' => 'Unauthorized'], 401);
         }
@@ -95,7 +95,7 @@ class ApiController extends Controller
 
             Mail::to($request->input('email'))->send(new VerifyEmail($user));
 
-            return redirect('/login-page')->with('success', 'Check Your email for verification');
+            return redirect('/api/login-page')->with('success', 'Check Your email for verification');
 
         } catch (\Exception $e) {
             dd($e->getMessage());
@@ -123,7 +123,7 @@ class ApiController extends Controller
                 'verification_token' => null, // Remove the token after verification
             ]);
 
-            return redirect('/login-page')->with('success1', 'Your email has been verified. You can now log in.');
+            return redirect('/api/login-page')->with('success1', 'Your email has been verified. You can now log in.');
 
         } catch (\Exception $e) {
             \Log::error('Error during email verification: ' . $e->getMessage());
