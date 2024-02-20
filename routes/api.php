@@ -21,7 +21,18 @@ use App\Http\Controllers\HomeController;
 Route::post('/purchase/plans' ,[ApiController::class , 'purchase-plans']);
 Route::post('/login' , [ApiController::class , 'login']);
 Route::get('/verify-email/{token}', [ApiController::class , 'verifyEmail']);
+Route::get('/' , [HomeController::class , 'index']);
+Route::get('/about' , [HomeController::class , 'about']);
+Route::get('/contact' , [HomeController::class , 'contact']);
+Route::get('/portfolio' , [HomeController::class , 'portfolio']);
+Route::get('/faq' , [HomeController::class , 'faq']);
+Route::get('/pricing' , [HomeController::class , 'pricing']);
+Route::get('/product/detail' , [HomeController::class , 'product_detail']);
+Route::get('/product' , [HomeController::class , 'product']);
+Route::get('/shipping' , [HomeController::class , 'shipping']);
 
+Route::get('/signup-page' , [HomeController::class , 'signup']);
+Route::get('/login-page' , [HomeController::class , 'login']);
 Route::middleware(['web'])->group(function () {
     Route::post('/send-otp' , [ApiController::class , 'sendOtp']);
     Route::get('/otp-check' ,[HomeController::class , 'otpcheck']);
