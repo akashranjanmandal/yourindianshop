@@ -19,9 +19,9 @@
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/bootstrap-icons.css" rel="stylesheet">
 
-        <link rel="stylesheet" href="css/slick.css"/>
+        <link rel="stylesheet" href="{{ asset('css/slick.css') }}"/>
 
-        <link href="css/tooplate-little-fashion.css" rel="stylesheet">
+        <link href="{{asset('css/tooplate-little-fashion.css') }}" rel="stylesheet">
 
 <!--
 
