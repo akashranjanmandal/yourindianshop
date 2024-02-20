@@ -53,8 +53,8 @@ https://www.tooplate.com/view/2127-little-fashion
                     </a>
 
                     <div class="d-lg-none">
-                        <a href="/login-page" ><span style="font-size:15px; margin: 5px;">Log In</span></a>|
-                        <a href="/signup-page" ><span style="font-size:14px; margin: 5px;">Sign Up</span></a>
+                        <a href="/api/login-page" ><span style="font-size:15px; margin: 5px;">Log In</span></a>|
+                        <a href="/api/signup-page" ><span style="font-size:14px; margin: 5px;">Sign Up</span></a>
                         <!-- <a href="sign-in.html" class="bi-person custom-icon me-3"></a> -->
                     </div>
 
@@ -64,7 +64,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                 <a class="nav-link active" href="index.html">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/about">About</a>
+                                <a class="nav-link" href="/api/about">About</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/pricing">Pricing</a>
@@ -79,13 +79,13 @@ https://www.tooplate.com/view/2127-little-fashion
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="/contact">Contact</a>
+                                <a class="nav-link" href="/api/contact">Contact</a>
                             </li>
                         </ul>
 
                         <div class="d-none d-lg-block">
-                                <a href="/login-page" ><span style="font-size:15px; margin: 5px;">Log In</span></a>
-                                <a href="/signup-page" ><span style="font-size:15px; margin: 5px;">Sign Up</span></a>
+                                <a href="/api/login-page" ><span style="font-size:15px; margin: 5px;">Log In</span></a>
+                                <a href="/api/signup-page" ><span style="font-size:15px; margin: 5px;">Sign Up</span></a>
                                 <!-- <a href="sign-in.html" class="bi-person custom-icon me-3"></a> -->
                             </div>
                     </div>
@@ -532,7 +532,7 @@ https://www.tooplate.com/view/2127-little-fashion
                         <h5 class="text-white mb-3">Sitemap</h5>
 
                         <ul class="footer-menu d-flex flex-wrap">
-                            <li class="footer-menu-item"><a href="/about" class="footer-menu-link">About Us</a></li>
+                            <li class="footer-menu-item"><a href="/api/about" class="footer-menu-link">About Us</a></li>
 
                             <li class="footer-menu-item"><a href="#" class="footer-menu-link">Privacy policy</a></li>
 
