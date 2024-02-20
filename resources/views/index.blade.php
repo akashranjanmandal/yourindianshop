@@ -61,7 +61,7 @@ https://www.tooplate.com/view/2127-little-fashion
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav mx-auto">
                             <li class="nav-item">
-                                <a class="nav-link active" href="index.html">Home</a>
+                                <a class="nav-link active" href=" ">Home</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/api/about">About</a>
@@ -75,7 +75,7 @@ https://www.tooplate.com/view/2127-little-fashion
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="/faq">FAQs</a>
+                                <a class="nav-link" href="/api/faq">FAQs</a>
                             </li>
 
                             <li class="nav-item">
