@@ -9,19 +9,19 @@
 
         <title>Your Indian Shop</title>
 
-        <!-- CSS FILES -->
+        <!-- /css FILES -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
 
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com//css2?family=Inter:wght@100;300;400;700;900&display=swap" rel="stylesheet">
 
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/bootstrap-icons.css" rel="stylesheet">
+        <link href="/css/bootstrap.min./css" rel="stylesheet">
+        <link href="/css/bootstrap-icons./css" rel="stylesheet">
 
-        <link rel="stylesheet" href="css/slick.css"/>
+        <link rel="stylesheet" href="/css/slick./css"/>
 
-        <link href="css/tooplate-little-fashion.css" rel="stylesheet">
+        <link href="/css/tooplate-little-fashion./css" rel="stylesheet">
 <!--
 
 Tooplate 2127 Little Fashion
@@ -94,7 +94,7 @@ https://www.tooplate.com/view/2127-little-fashion
 
             <section class="slick-slideshow">
                 <div class="slick-custom">
-                    <img src="images/slideshow/h1.jpg" class="img-fluid" alt="">
+                    <img src="/images/slideshow/h1.jpg" class="img-fluid" alt="">
 
                     <div class="slick-bottom">
                         <div class="container">
@@ -110,7 +110,7 @@ https://www.tooplate.com/view/2127-little-fashion
                 </div>
 
                 <div class="slick-custom">
-                    <img src="images/slideshow/h2.jpg" class="img-fluid" alt="">
+                    <img src="/images/slideshow/h2.jpg" class="img-fluid" alt="">
 
                     <div class="slick-bottom">
                         <div class="container">
@@ -124,7 +124,7 @@ https://www.tooplate.com/view/2127-little-fashion
                 </div>
 
                 <div class="slick-custom">
-                    <img src="images/slideshow/h3.jpg" class="img-fluid" alt="">
+                    <img src="/images/slideshow/h3.jpg" class="img-fluid" alt="">
 
                     <div class="slick-bottom">
                         <div class="container">
@@ -147,38 +147,38 @@ https://www.tooplate.com/view/2127-little-fashion
                         </div>
                         <div class="row d-flex align-items-center justify-content-center">
                             <div class="card col-lg-3 col-11">
-                                <img src="images/p3.png" class="img-box" alt="">
+                                <img src="/images/p3.png" class="img-box" alt="">
                                 <span class="highlight">Assisted Purchase</span>
                                 <p class="product-p">We provide assistance for your personalised needs while shopping through Your Indian Shop.</p>
                                 <a href="" class=".custom-btn">Learn More <i class="bi-arrow-right ms-2"></i></a>
                             </div>
                                 <div class="card col-lg-3 col-11">
-                                    <img src="images/p1.png" class="img-box" alt="">
+                                    <img src="/images/p1.png" class="img-box" alt="">
                                     <span class="highlight">International Courier</span>
                                     <p class="product-p">We provide an efficient, dependable, and cost-effective international courier service from India, ensuring a hassle-free experience</p>
                                     <a href="" class=".custom-btn">Learn More <i class="bi-arrow-right ms-2"></i></a>
                                 </div>
                                 <div class="card col-lg-3 col-11">
-                                    <img src="images/p2.png" class="img-box" alt="">
+                                    <img src="/images/p2.png" class="img-box" alt="">
                                     <span class="highlight">Indian Shop Cart</span>
                                     <p class="product-p">Explore top Indian brands and enjoy international delivery services directly from India.</p>
                                 <a href="" class=".custom-btn">Learn More <i class="bi-arrow-right ms-2"></i></a>
                                 </div>
 
                                 <div class="card col-lg-3 col-11">
-                                    <img src="images/p4.png" class="img-box" alt="">
+                                    <img src="/images/p4.png" class="img-box" alt="">
                                     <span class="highlight">Plans We offer</span>
                                     <p class="product-p">We provide a variety of plans tailored to your requirements, spanning from basic to premium, guaranteeing affordability, flexibility, and high-quality service </p>
                                     <a href="" class=".custom-btn">Learn More <i class="bi-arrow-right ms-2"></i></a>
                                 </div>
                                 <div class="card col-lg-3 col-11">
-                                    <img src="images/x5.jpg" class="img-box" alt="">
+                                    <img src="/images/x5.jpg" class="img-box" alt="">
                                     <span class="highlight">tbu</span>
                                     <p class="product-p">We provide assistance for your personalised needs while shopping through Your Indian Shop </p>
                                     <a href="" class=".custom-btn">Learn More <i class="bi-arrow-right ms-2"></i></a>
                                 </div>
                                 <div class="card col-lg-3 col-11">
-                                    <img src="images/x5.jpg" class="img-box" alt="">
+                                    <img src="/images/x5.jpg" class="img-box" alt="">
                                     <span class="highlight">tbu</span>
                                     <p class="product-p">We provide assistance for your personalised needs while shopping through Your Indian Shop </p>
                                     <a href="" class=".custom-btn">Learn More <i class="bi-arrow-right ms-2"></i></a>
@@ -198,27 +198,27 @@ https://www.tooplate.com/view/2127-little-fashion
                         </div>
                         <div class="row d-flex align-items-center justify-content-center">
                                 <div class="box col-lg-4 col-6">
-                                    <img src="images/x1.svg" class="img-box" alt="">
+                                    <img src="/images/x1.svg" class="img-box" alt="">
                                     <span class="highlight">Sign Up</span>
                                     <p class="product-p">Choose membership & Signup <br>for your own Indian address.</p>
                                 </div>
                                 <div class="box col-lg-4 col-6">
-                                    <img src="images/x2.svg" class="img-box" alt="">
+                                    <img src="/images/x2.svg" class="img-box" alt="">
                                     <span class="highlight">Shop</span>
                                     <p class="product-p">Shop any Indian e-store or use <br>our Assisted Purchase service</p>
                                 </div>
                                 <div class="box col-lg-4 col-6">
-                                    <img src="images/x3.jpg" class="img-box" alt="">
+                                    <img src="/images/x3.jpg" class="img-box" alt="">
                                     <span class="highlight">Ship</span>
                                     <p class="product-p">Ship purchases to your own <br>Forward Parcel Indian address.</p>
                                 </div>
                                 <div class="box col-lg-4 col-6">
-                                    <img src="images/x4.svg" class="img-box" alt="">
+                                    <img src="/images/x4.svg" class="img-box" alt="">
                                     <span class="highlight">Save</span>
                                     <p class="product-p">Save 80% on shipping by <br>consolidating parcels.</p>
                                 </div>
                                 <div class="box col-lg-4 col-6">
-                                    <img src="images/x5.jpg" class="img-box" alt="">
+                                    <img src="/images/x5.jpg" class="img-box" alt="">
                                     <span class="highlight">Receive</span>
                                     <p class="product-p">Forward Parcel will bring parcels <br>to your door within 5-7 days.</p>
                                 </div>
@@ -232,7 +232,7 @@ https://www.tooplate.com/view/2127-little-fashion
                 <div class="container-fluid p-0">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-12">
-                            <img src="images/h1.svg" alt="">
+                            <img src="/images/h1.svg" alt="">
                         </div>
                         <div class="col-lg-6 col-12">
                             <div class="px-5 py-5 py-lg-0">
@@ -260,13 +260,13 @@ https://www.tooplate.com/view/2127-little-fashion
                         </div>
                         <div class="row d-flex align-items-center justify-content-center">
                             <div class="card col-lg-3 col-11">
-                                <img src="images/14666951_5510189.jpg" class="img-box" alt="">
+                                <img src="/images/14666951_5510189.jpg" class="img-box" alt="">
                                 <span class="highlight">White Labeling</span>
                                 <p class="product-p">White labeling is when a company rebrands and sells a product or service originally created by another company under its own name.</p>
                                 <a href="https://yourindianshop.com/white-labeling" class=".custom-btn">Learn More <i class="bi-arrow-right ms-2"></i></a>
                             </div>
                                 <div class="card col-lg-3 col-11">
-                                    <img src="images/1311298_398.svg" class="img-box" alt="">
+                                    <img src="/images/1311298_398.svg" class="img-box" alt="">
                                     <span class="highlight">Wholesaler Plan</span>
                                     <p class="product-p">When you buy bulk items with us, Our commitment to providing cost-effective solutions ensures that you get the most value for your investment.</p>
                                     <a href="https://yourindianshop.com/wholesaler" class=".custom-btn">Learn More <i class="bi-arrow-right ms-2"></i></a>
@@ -289,52 +289,52 @@ https://www.tooplate.com/view/2127-little-fashion
                             <div class="slider">
                                 <div class="slide-track">
                                 <div class="slide">
-                                <img src="images/logos/6mjppp34.png" height="100" width="200" alt="" />
+                                <img src="/images/logos/6mjppp34.png" height="100" width="200" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/adidas.png" height="80" width="150" alt="" />
+                                <img src="/images/logos/adidas.png" height="80" width="150" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/Ajio-Logo.png" height="60" width="150" alt="" />
+                                <img src="/images/logos/Ajio-Logo.png" height="60" width="150" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/Alibaba-Logo.png" height="100" width="250" alt="" />
+                                <img src="/images/logos/Alibaba-Logo.png" height="100" width="250" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/bewakoof.png" height="100" width="250" alt="" />
+                                <img src="/images/logos/bewakoof.png" height="100" width="250" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/himalaya.png" height="120" width="250" alt="" />
+                                <img src="/images/logos/himalaya.png" height="120" width="250" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/indiamart_logo.jpg" height="80" width="250" alt="" />
+                                <img src="/images/logos/indiamart_logo.jpg" height="80" width="250" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/Lakme-Logo.png" height="60" width="180" alt="" />
+                                <img src="/images/logos/Lakme-Logo.png" height="60" width="180" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/Logo-Amazon.png" height="60" width="180" alt="" />
+                                <img src="/images/logos/Logo-Amazon.png" height="60" width="180" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/mamaearth.png" height="40" width="150" alt="" />
+                                <img src="/images/logos/mamaearth.png" height="40" width="150" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/max-logo.png" height="60" width="150" alt="" />
+                                <img src="/images/logos/max-logo.png" height="60" width="150" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/Myntra.png" height="100" width="250" alt="" />
+                                <img src="/images/logos/Myntra.png" height="100" width="250" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/nike.png" height="60" width="180" alt="" />
+                                <img src="/images/logos/nike.png" height="60" width="180" alt="" />
                                 </div>
                                 <div class="slide">
-                                <img src="images/logos/NYKAA.NS.png" height="60" width="180" alt="" />
+                                <img src="/images/logos/NYKAA.NS.png" height="60" width="180" alt="" />
                                 </div>
                                 <div class="slide">
-                                    <img src="images/logos/shopclues-logo-big.png" height="100" width="250" alt="" />
+                                    <img src="/images/logos/shopclues-logo-big.png" height="100" width="250" alt="" />
                                     </div>
                                     <div class="slide">
-                                        <img src="images/logos/snapdeal.png" height="80" width="200" alt="" />
+                                        <img src="/images/logos/snapdeal.png" height="80" width="200" alt="" />
                                         </div>
                                 </div>
                                 </div>
@@ -356,7 +356,7 @@ https://www.tooplate.com/view/2127-little-fashion
                             <li>
                                 <a href="https://www.beyoung.in/">
                                     <figure>
-                                        <img src='images/product/beyoung.jpg' alt=''>
+                                        <img src='/images/product/beyoung.jpg' alt=''>
                                         <figcaption>Beyoung</figcaption>
                                     </figure>
                                 </a>
@@ -364,7 +364,7 @@ https://www.tooplate.com/view/2127-little-fashion
                             <li>
                                 <a href="https://www.kolkataweb.com/">
                                     <figure>
-                                        <img src='images/product/kw.png' alt=''>
+                                        <img src='/images/product/kw.png' alt=''>
                                         <figcaption>Kolkata Web</figcaption>
                                     </figure>
                                 </a>
@@ -372,7 +372,7 @@ https://www.tooplate.com/view/2127-little-fashion
                             <li>
                                 <a href="https://www.thegallerystore.in/">
                                     <figure>
-                                        <img src='images/product/gallery.jpg' alt=''>
+                                        <img src='/images/product/gallery.jpg' alt=''>
                                         <figcaption>The gallery store</figcaption>
                                     </figure>
                                 </a>
@@ -380,7 +380,7 @@ https://www.tooplate.com/view/2127-little-fashion
                             <li>
                                 <a href="https://youngtrendz.in/">
                                     <figure>
-                                        <img src='images/product/2.jpg' alt=''>
+                                        <img src='/images/product/2.jpg' alt=''>
                                         <figcaption>Young trendz</figcaption>
                                     </figure>
                                 </a>
@@ -388,7 +388,7 @@ https://www.tooplate.com/view/2127-little-fashion
                             <li>
                                 <a href="https://lbb.in/kolkata/best-bakeries-kolkata/">
                                     <figure>
-                                        <img src='images/product/1.png' alt=''>
+                                        <img src='/images/product/1.png' alt=''>
                                         <figcaption>Lbb</figcaption>
                                     </figure>
                                 </a>
@@ -396,7 +396,7 @@ https://www.tooplate.com/view/2127-little-fashion
                             <li>
                                 <a href="https://www.baazarkolkata.com/">
                                     <figure>
-                                        <img src='images/product/3.png' alt=''>
+                                        <img src='/images/product/3.png' alt=''>
                                         <figcaption>Bazaar Kolkata</figcaption>
                                     </figure>
                                 </a>
