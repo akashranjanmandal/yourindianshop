@@ -98,7 +98,7 @@ class ApiController extends Controller
             return redirect('/api/login-page')->with('success', 'Check Your email for verification');
 
         } catch (\Exception $e) {
-            dd($e->getMessage());
+        
             \Log::error('Error during signup: ' . $e->getMessage());
             return response()->json(['error' => 'Something went wrong'], 500);
         }
