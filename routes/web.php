@@ -15,18 +15,18 @@ use App\Http\Controllers\HomeController;
 
 
 //pages routes
-Route::get('/' , [HomeController::class , 'index']);
-Route::get('/about' , [HomeController::class , 'about']);
-Route::get('/contact' , [HomeController::class , 'contact']);
-Route::get('/portfolio' , [HomeController::class , 'portfolio']);
-Route::get('/faq' , [HomeController::class , 'faq']);
-Route::get('/pricing' , [HomeController::class , 'pricing']);
-Route::get('/product/detail' , [HomeController::class , 'product_detail']);
-Route::get('/product' , [HomeController::class , 'product']);
-Route::get('/shipping' , [HomeController::class , 'shipping']);
+// Route::get('/' , [HomeController::class , 'index']);
+// Route::get('/about' , [HomeController::class , 'about']);
+// Route::get('/contact' , [HomeController::class , 'contact']);
+// Route::get('/portfolio' , [HomeController::class , 'portfolio']);
+// Route::get('/faq' , [HomeController::class , 'faq']);
+// Route::get('/pricing' , [HomeController::class , 'pricing']);
+// Route::get('/product/detail' , [HomeController::class , 'product_detail']);
+// Route::get('/product' , [HomeController::class , 'product']);
+// Route::get('/shipping' , [HomeController::class , 'shipping']);
 
-Route::get('/signup-page' , [HomeController::class , 'signup']);
-Route::get('/login-page' , [HomeController::class , 'login']);
+// Route::get('/signup-page' , [HomeController::class , 'signup']);
+// Route::get('/login-page' , [HomeController::class , 'login']);
 
 
 
