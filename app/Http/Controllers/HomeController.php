@@ -28,7 +28,7 @@ class HomeController extends Controller
         return view('products');
     }
     public function shipping(){
-        return view('shippincal');
+        return view('shippingcal');
     }
     public function signup(){
         return view('sign-up');
