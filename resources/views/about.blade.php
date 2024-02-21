@@ -16,20 +16,13 @@
 
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;700;900&display=swap" rel="stylesheet">
 
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/bootstrap-icons.css" rel="stylesheet">
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/bootstrap-icons.css" rel="stylesheet">
 
-        <link rel="stylesheet" href="css/slick.css"/>
+        <link rel="stylesheet" href="/css/slick.css"/>
 
-        <link href="css/tooplate-little-fashion.css" rel="stylesheet">
+        <link href="/css/tooplate-little-fashion.css" rel="stylesheet">
 
-<!--
-
-Tooplate 2127 Little Fashion
-
-https://www.tooplate.com/view/2127-little-fashion
-
--->
     </head>
 
     <body>
@@ -49,41 +42,39 @@ https://www.tooplate.com/view/2127-little-fashion
                                     <span class="navbar-toggler-icon"></span>
                                 </button>
 
-                                <a class="navbar-brand" href="index.html">
+                                <a class="navbar-brand" href="">
                                     <strong>Your <span>Indian</span> Shop</strong>
                                 </a>
 
                                 <div class="d-lg-none">
-                                    <a href="sign-in.html" ><span style="font-size:15px">Sign In</span></a>
-                                    <!-- <a href="sign-in.html" class="bi-person custom-icon me-3"></a> -->
+                                    <a href="/api/login-page" ><span style="font-size:15px">Sign In</span></a>|
+                                    <a href="/api/signup-page" ><span style="font-size:15px">Sign Up</span></a>
                                 </div>
 
                                 <div class="collapse navbar-collapse" id="navbarNav">
                                     <ul class="navbar-nav mx-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link active" href="index.html">Home</a>
+                                            <a class="nav-link active" href="">Home</a>
                                         </li>
 
                                         <li class="nav-item">
-                                            <a class="nav-link" href="pricing.html">Pricing</a>
+                                            <a class="nav-link" href="/api/pricing">Pricing</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/api/about">About</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="/api/faq">FAQs</a>
                                         </li>
 
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#how">How it works</a>
-                                        </li>
-
-                                        <li class="nav-item">
-                                            <a class="nav-link" href="faq.html">FAQs</a>
-                                        </li>
-
-                                        <li class="nav-item">
-                                            <a class="nav-link" href="contact.html">Contact</a>
+                                            <a class="nav-link" href="/api/contact">Contact</a>
                                         </li>
                                     </ul>
 
                                     <div class="d-none d-lg-block">
-                                            <a href="sign-in.html" ><span style="font-size:15px">Sign In</span></a>
-                                            <!-- <a href="sign-in.html" class="bi-person custom-icon me-3"></a> -->
+                                            <a href="/api/login-page" ><span style="font-size:15px">Sign In</span></a>|
+                                    <a href="/api/signup-page" ><span style="font-size:15px">Sign Up</span></a>
                                         </div>
                                 </div>
                             </div>
@@ -103,7 +94,7 @@ https://www.tooplate.com/view/2127-little-fashion
                     </div>
                 </div>
 
-                <img src="images/product/delivery.gif" class="header-image img-fluid" alt="">
+                <img src="/images/product/delivery.gif" class="header-image img-fluid" alt="">
             </header>
 
             <section class="team section-padding">
@@ -116,7 +107,7 @@ https://www.tooplate.com/view/2127-little-fashion
 
                         <div class="col-lg-4 mb-4 col-12">
                             <div class="team-thumb d-flex align-items-center">
-                                <img src="images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg" class="img-fluid custom-circle-image team-image me-4" alt="">
+                                <img src="/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg" class="img-fluid custom-circle-image team-image me-4" alt="">
 
                                 <div class="team-info">
                                     <h5 class="mb-0">Don</h5>
@@ -133,7 +124,7 @@ https://www.tooplate.com/view/2127-little-fashion
 
                         <div class="col-lg-4 mb-4 col-12">
                             <div class="team-thumb d-flex align-items-center">
-                                <img src="images/people/portrait-british-woman.jpeg" class="img-fluid custom-circle-image team-image me-4" alt="">
+                                <img src="/images/people/portrait-british-woman.jpeg" class="img-fluid custom-circle-image team-image me-4" alt="">
 
                                 <div class="team-info">
                                     <h5 class="mb-0">Kelly</h5>
@@ -149,7 +140,7 @@ https://www.tooplate.com/view/2127-little-fashion
 
                         <div class="col-lg-4 mb-lg-0 mb-4 col-12">
                             <div class="team-thumb d-flex align-items-center">
-                                <img src="images/people/beautiful-woman-face-portrait-brown-background.jpeg" class="img-fluid custom-circle-image team-image me-4" alt="">
+                                <img src="/images/people/beautiful-woman-face-portrait-brown-background.jpeg" class="img-fluid custom-circle-image team-image me-4" alt="">
 
                                 <div class="team-info">
                                     <h5 class="mb-0">Marie</h5>
@@ -338,12 +329,12 @@ https://www.tooplate.com/view/2127-little-fashion
         </div>
 
         <!-- JAVASCRIPT FILES -->
-        <script src="js/jquery.min.js"></script>
-        <script src="js/bootstrap.bundle.min.js"></script>
-        <script src="js/Headroom.js"></script>
-        <script src="js/jQuery.headroom.js"></script>
-        <script src="js/slick.min.js"></script>
-        <script src="js/custom.js"></script>
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/bootstrap.bundle.min.js"></script>
+        <script src="/js/Headroom.js"></script>
+        <script src="/js/jQuery.headroom.js"></script>
+        <script src="/js/slick.min.js"></script>
+        <script src="/js/custom.js"></script>
 
     </body>
 </html>
