@@ -67,7 +67,7 @@ https://www.tooplate.com/view/2127-little-fashion
                                 <a class="nav-link" href="/api/about">About</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/pricing">Pricing</a>
+                                <a class="nav-link" href="/api/pricing">Pricing</a>
                             </li>
 
                             <li class="nav-item">
@@ -241,7 +241,7 @@ https://www.tooplate.com/view/2127-little-fashion
 
                                 <p class="lead mb-4">Introducing YourIndianShop's user-friendly Shipping Calculator, offering instant, transparent estimates for seamless shipping. Tailored for businesses and individuals, it provides real-time estimates, transparent pricing, and customizable options. Empowering informed decisions, this tool ensures convenience and control over your shipping journey.</p>
 
-                                <a href="shippingcal.html" class="custom-btn">
+                                <a href="/api/shipping" class="custom-btn">
                                     Explore Now
                                     <i class="bi-arrow-right ms-2"></i>
                                 </a>
