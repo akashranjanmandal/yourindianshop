@@ -47,8 +47,8 @@
                                 </a>
 
                                 <div class="d-lg-none">
-                                    <a href="/api/login-page" ><span style="font-size:15px">Sign In</span></a>
-                                    <!-- <a href="sign-in.html" class="bi-person custom-icon me-3"></a> -->
+                                    <a href="/api/login-page" ><span style="font-size:15px">Sign In</span></a>|
+                                    <a href="/api/signup-page" ><span style="font-size:15px">Sign Up</span></a>
                                 </div>
 
                                 <div class="collapse navbar-collapse" id="navbarNav">
@@ -75,8 +75,8 @@
                                     </ul>
 
                                     <div class="d-none d-lg-block">
-                                            <a href="/api/signup-page" ><span style="font-size:15px">Sign In</span></a>
-                                            <!-- <a href="sign-in.html" class="bi-person custom-icon me-3"></a> -->
+                                            <a href="/api/login-page" ><span style="font-size:15px">Sign In</span></a>|
+                                    <a href="/api/signup-page" ><span style="font-size:15px">Sign Up</span></a>
                                         </div>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@
                                 </div>
                             </div>
 
-                            <img src="images/Faq.svg" class="header-image img-fluid" alt="">
+                            <img src="/images/Faq.svg" class="header-image img-fluid" alt="">
                         </header>
 
             <section class="faq section-padding">
