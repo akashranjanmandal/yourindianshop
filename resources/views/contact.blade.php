@@ -105,7 +105,7 @@ https://www.tooplate.com/view/2127-little-fashion
                     </div>
                 </div>
 
-                <img src="images/contact.jpg" class="header-image img-fluid" alt="">
+                <img src="/images/contact.jpg" class="header-image img-fluid" alt="">
             </header>
             <section id="contact-details" class=" section-padding m-5">
                 <div class="details">
