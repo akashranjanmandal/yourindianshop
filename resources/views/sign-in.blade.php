@@ -23,13 +23,6 @@
 
         <link href="/css/tooplate-little-fashion.css" rel="stylesheet">
 
-<!--
-
-Tooplate 2127 Little Fashion
-
-https://www.tooplate.com/view/2127-little-fashion
-
--->
     </head>
 
     <body>
@@ -77,7 +70,6 @@ https://www.tooplate.com/view/2127-little-fashion
                         </ul>
 
                         <div class="d-none d-lg-block">
-                                <a href="/api/login-page" ><span style="font-size:15px">Sign In</span></a>|
                             <a href="/api/signup-page" ><span style="font-size:15px">Sign Up</span></a>
                                 <!-- <a href="sign-in.html" class="bi-person custom-icon me-3"></a> -->
                             </div>
